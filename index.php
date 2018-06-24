@@ -21,9 +21,12 @@
 	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<p>Milly haz un cambio en esta linea. Es para la practica ESTO ES MI CAMBIO</p>
+<<<<<<< HEAD
 	<div>
 		<p>CAMBIO INTENTANDO MOSTRAR EL ERROR OTRA VEZ</p>
 		<p>CAMBIO INTENTANDO MOSTRAR EL ERROR</p>
 	</div>
+=======
+>>>>>>> parent of 25e7b98... Cambio en index desde master
 </body>
 </html>
